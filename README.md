@@ -19,6 +19,10 @@ Just Adobe Illustrator and a web browser.
 
 • Select “script.jsx” from the dialog box popped out. After that Illustrator asks the template file select “template.ait”. Do not minimize Illustrator while it is working. After Illustrator finishes its task it will ask a folder to save nametags as PDF file format.
 
+
+
+
+
 I want to thank
 Asst. Prof. Hamdi Dibeklioğlu
 and
