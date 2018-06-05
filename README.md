@@ -22,10 +22,10 @@ Just Adobe Illustrator and a web browser.
 
 
 
-
-> I want to thank
-> Asst. Prof. Hamdi Dibeklioğlu
-> and
-> Barış Poyraz for their valuable contributions.
+## Thanks
+ I want to thank
+ Asst. Prof. Hamdi Dibeklioğlu
+ and
+ Barış Poyraz for their valuable contributions.
 
 ###### *This guide prepared for Adobe Illustrator CC 2017. The steps may differ according to the other verisons.
