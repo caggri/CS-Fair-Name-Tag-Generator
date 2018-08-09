@@ -2,6 +2,9 @@
 
 This script will give the necessary files to generate automatic namet ags for CS Fair by using Adobe Illustrator*.
 
+## Installing the script
+This script works on a web server soo you need to have a web server. It does not matter web server based on your local computer or on a remote server. Script creates a directory to upload CSV file into it. You have to give required permissions to the directory (eg. chmod o+w <directory_name>).
+
 ## What do you need to use this script?
 
 Just Adobe Illustrator and a web browser.
