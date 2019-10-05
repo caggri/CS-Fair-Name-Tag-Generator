@@ -7,7 +7,7 @@ This script works on a web server soo you need to have a web server. It does not
 
 ## What do you need to use this script?
 
-A ewb server, Adobe Illustrator and a web browser.
+A web server, Adobe Illustrator and a web browser.
 
 ## How to use?
 
